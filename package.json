@@ -1,0 +1,27 @@
+{
+  "name": "olaf-trivia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A St. Olaf Trivia Website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gatsby": "1.0.0-alpha16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkrives/olaf-trivia.git"
+  },
+  "keywords": [
+    "st-olaf"
+  ],
+  "author": "Hawken M. Rives <hawkrives@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/hawkrives/olaf-trivia/issues"
+  },
+  "homepage": "https://github.com/hawkrives/olaf-trivia#readme"
+}
